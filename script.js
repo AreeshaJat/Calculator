@@ -71,6 +71,12 @@ class Calculator {
         this.current = '';
         this.previous = '';
         this.operation = undefined;
+
+        //Update the display to clear both current and previous numbers
+        this.updateDisplay(); 
+        
+        //Clear the content of the previousNumber element
+        this.previousNumber.innerText = ''; 
     }
 }
 
