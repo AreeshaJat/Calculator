@@ -46,6 +46,10 @@ class Calculator {
         } else if (this.operation === '*') {
             calculate = num1 * num2;
         } else if (this.operation === '÷') {
+            if (num2 === 0) {
+                alert("Uh oh, You can't divide by 0");
+                return 0;
+            }
             calculate = num1 / num2;
         } else {
             return;
