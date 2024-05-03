@@ -22,3 +22,6 @@ The project is based on the development of a responsive and interactive web page
 
 ## Viewing the Webpage
 To view the completed webpage, follow this link: [Live Demo](https://areeshajat.github.io/Calculator/)
+
+https://github.com/AreeshaJat/Calculator/assets/106934155/3fd9a698-9c03-4dee-86ee-46e6fc3fc698
+
